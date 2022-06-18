@@ -13,3 +13,6 @@ Class private olarak bildirilirse, o zaman sadece üyeyi tanımlayan sınıf tar
 
 ## (Abstraction) Soyutlama nedir?
 Yazılım alanında, gereksiz teknik detayları developer'dan gizleyip, karmaşıklığı azaltıp üretimi artırmayı sağlamak için kullanılan bir methodun adıdır dezavantajı, gizlenen kısımlara müdahale edilmesinin her zaman mümkün olmamasıdır.
+
+
+<img width="847" alt="image" src="https://user-images.githubusercontent.com/17185788/174453035-1c4d37de-3138-4ad4-9100-a6bf644ba485.png">
